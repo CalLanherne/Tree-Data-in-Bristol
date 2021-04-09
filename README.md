@@ -3,7 +3,7 @@ A Jupyter notebook to pull new tree plantings from the Bristol City Council Open
 
 To render properly, please view through nbviewer: https://nbviewer.jupyter.org/github/CalLanherne/Tree-Data-in-Bristol/blob/master/tree_plantings_bristol.ipynb
 
-## Prerequisites
+## Prerequisites for running locally
 
 Python 3.7.8 with Jupyter Notebook (`conda install -c conda-forge notebook`)
 ### Python Packages
